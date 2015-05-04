@@ -1,8 +1,13 @@
 body {
 	background-color: #D0D0D0;
 }
-h1, p  {
+h1 {
 	color: #580000;
 	font-family: futura;
 	font-size: 200%;
+}
+p {
+	color: #800000
+	font-family: helvetica
+	font-size: 100%;
 }
