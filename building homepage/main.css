@@ -13,7 +13,13 @@ h1{
 }
 
 body {
+	background: url(http://i.imgur.com/EM9UY3x.jpg);
+	background-size: cover;
 	text-align: center;
-	font-size: 13px;
+	font-size: 15px;
 	font-family: helvetica, arial, sans-serif;
+}
+
+#bulletpoint{
+	text-align: left;
 }
