@@ -18,11 +18,11 @@ h1{
 body {
 	background: url(http://i.imgur.com/EM9UY3x.jpg);
 	background-size: cover;
-	text-align: justify;
+	text-align: center;
 	color: #FFFFFF;
 	font-size: 18px;
-	width: 700px;
 	font-family: helvetica, arial, sans-serif;
+	margin: 10px;
 }
 
 #bulletpoint{
