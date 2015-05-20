@@ -4,6 +4,9 @@ h1{
 	color: #FFFFFF;
 	text-transform: lowercase;
 	font-family: helvetica, arial, sans-serif;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-width: thin;
 }
 
 #slogan{
@@ -34,5 +37,5 @@ body {
 }
 
 hr {
-	width: 200px;
+	width: 500px;
 }
