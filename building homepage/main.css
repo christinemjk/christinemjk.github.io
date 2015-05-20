@@ -6,3 +6,9 @@ h1 {
 	font-weight: bold;
 
 }
+
+#slogan {
+	font-style: italic;
+	font-size: 25px;
+	font-family: helvetica, arial, sans-serif;
+}
