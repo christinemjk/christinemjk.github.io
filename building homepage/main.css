@@ -8,7 +8,7 @@ h1{
 #slogan{
 	font-style: italic;
 	font-size: 30px;
-	color: #000000;
+	color: #FFFFFF;
 	font-weight: bold;
 	font-family: helvetica, arial, sans-serif;
 	text-align: center;
@@ -18,13 +18,13 @@ body {
 	background: url(http://i.imgur.com/EM9UY3x.jpg);
 	background-size: cover;
 	text-align: center;
-	color: #000000;
+	color: #FFFFFF;
 	font-size: 23px;
 	font-family: helvetica, arial, sans-serif;
 }
 
 #bulletpoint{
 	text-align: left;
-	color: #000000;
+	color: #FFFFFF;
 	font-size: 20px;
 }
