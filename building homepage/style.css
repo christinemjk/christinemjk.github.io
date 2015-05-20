@@ -1,17 +1,10 @@
 body {
-	background-color: #FFFFFF;
+	background-color: url("images/film fotos.jpg");
+	background-size: cover;
 	color: #000000;
 	font-family: helvetica, arial, sans-serif;
 	font-size:16px;
 	text-align:center;
-}
-
-#headerphoto {
-	position: fixed;
-	top: 0;
-	left: 0;
-min-width: 100%;
-	min-height: 100%;
 }
 
 h1 {
