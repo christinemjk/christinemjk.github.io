@@ -24,6 +24,7 @@ body {
 	font-size: 18px;
 	font-family: helvetica, arial, sans-serif;
 	margin: 50px;
+	padding: 20px;
 }
 
 #bulletpoint{
@@ -33,5 +34,5 @@ body {
 }
 
 hr {
-	width: 100px;
+	width: 200px;
 }
