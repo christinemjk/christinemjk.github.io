@@ -1,47 +1,40 @@
 @import url(http://fonts.googleapis.com/css?family=Lekton:400,700,400italic);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic);
 @import url(http://fonts.googleapis.com/css?family=IM+Fell+Great+Primer);
-
-h1{
+* { margin:0;padding:0;box-sizing:border-box; }
+body {
 	text-align: center;
-	font-size: 70px;
-	color: #FFFFFF;
+	color: #333;
+	font-size: 18px;
+	font-family: 'IM Fell Great Primer', serif;
+}
+section {
+	border:1px solid #000;
+	padding:5em 0 5em 0;
+}
+section#splash {
+	background: url("images/film%20fotos.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	color:#ffffff;
+	height:100vh;
+}
+h1 {
+	text-align: center;
+	font-size: 4em;
 	text-transform: uppercase;
 	font-family: 'Lekton', sans-serif;
-	margin: 10px;
-	padding: 10px;
 }
 
 #slogan{
 	font-style: italic;
-	font-size: 35px;
-	color: #FFFFFF;
+	font-size: 2em;
 	font-weight: bold;
 	font-family: 'Open Sans Condensed', sans-serif;
 	text-align: center;
-	padding: 25px;
-	margin-top: 5px;
-	margin-bottom: 400px;
+	margin-top: 1em;
 }
-
-body {
-	background: url("http://i.imgur.com/EM9UY3x.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	text-align: center;
-	color: #FFFFFF;
-	font-size: 18px;
-	font-family: 'IM Fell Great Primer', serif;
-	margin: 50px;
-	padding: 130px;
-}
-
 #bulletpoint{
 	text-align: left;
-	color: #FFFFFF;
-	font-size: 15px;
-}
-
-hr {
-	width: 300px;
 }
