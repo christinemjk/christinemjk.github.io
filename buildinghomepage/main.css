@@ -23,7 +23,8 @@ h1{
 	border-style: solid;
 	border color: #FFFFFF;
 	border-width: thin;
-	
+	border-collapse: separate;
+    border-spacing: 5px;
 }
 
 body {
