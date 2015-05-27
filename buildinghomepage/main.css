@@ -24,6 +24,11 @@ h1{
 	margin-bottom: 200px;
 }
 
+#myface{
+	height: 500px;
+	width: 500px;
+}
+
 body {
 	background: url(http://i.imgur.com/EM9UY3x.jpg);
 	background-size: cover;
