@@ -18,6 +18,8 @@ h1{
 	font-family: 'Open Sans Condensed', sans-serif;
 	text-align: center;
 	padding: 180px;
+	border-style: thin;
+	border color: #FFFFFF;
 }
 
 body {
