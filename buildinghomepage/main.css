@@ -3,9 +3,6 @@
 @import url(http://fonts.googleapis.com/css?family=IM+Fell+Great+Primer);
 
 h1{
-	background: url(http://i.imgur.com/EM9UY3x.jpg);
-	background-repeat: repeat-x;
-	background-position: top center;
 	text-align: center;
 	font-size: 70px;
 	color: #FFFFFF;
@@ -32,8 +29,8 @@ h1{
 
 body {
 	background: url(http://i.imgur.com/EM9UY3x.jpg);
-	background-repeat: repeat-x;
-	background-position: top center;
+	background-size: cover;
+	background-repeat: no-repeat;
 	text-align: center;
 	color: #FFFFFF;
 	font-size: 18px;
