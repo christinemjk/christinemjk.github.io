@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Lekton:400,700,400italic);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic);
+@import url(http://fonts.googleapis.com/css?family=IM+Fell+Great+Primer);
 
 h1{
 	text-align: center;
@@ -25,7 +26,7 @@ body {
 	text-align: center;
 	color: #FFFFFF;
 	font-size: 15px;
-	font-family: helvetica, arial, sans-serif;
+	font-family: 'IM Fell Great Primer', serif;
 	margin: 120px;
 	padding: 70px;
 }
