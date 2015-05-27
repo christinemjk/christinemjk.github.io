@@ -29,8 +29,8 @@ h1{
 
 body {
 	background: url(http://i.imgur.com/EM9UY3x.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-repeat: repeat-x;
+	background-position: top center;
 	text-align: center;
 	color: #FFFFFF;
 	font-size: 18px;
