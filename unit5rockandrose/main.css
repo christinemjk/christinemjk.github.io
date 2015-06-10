@@ -2,7 +2,12 @@
 @import url(http://fonts.googleapis.com/css?family=Lekton:400,400italic);
 * { margin:5px;padding:5px;box-sizing:border-box; }
 
-ul
-{
+nav .clearfix{
+	text-decoration: none;
+	float: left;
+	padding: 20px;
+
+} 
+ul {
     list-style-type: none;
 }
