@@ -53,9 +53,7 @@ header nav a {
 	border: white solid 1px;
 	color: #fff;
 	float: left;
-	position: relative;
-	left:50%;
-	right: 50%;
+	position: fixed;
 	margin: 0;
 	padding: 1em;
 	text-decoration: none;
@@ -82,8 +80,8 @@ div {
 section.rockonly {
 	padding: 1em;
 	margin: 2em;
-	line-height: 5em;
-	display:inline-table;
+	line-height: 3em;
+	display:inline;
 }
 
 #rock {
@@ -99,7 +97,7 @@ section.rockonly {
 section.roseonly {
 	padding: 1em;
 	margin: 2em;
-	line-height: 5em;
+	line-height: 3em;
 	display:inline;
 }
 
@@ -112,14 +110,14 @@ section.roseonly {
 section.rnronly {
 	padding: 1em;
 	margin: 2em;
-	line-height: 5em;
+	line-height: 3em;
 	display:inline;
 }
 
 section.soulonly {
 	padding: 1em;
 	margin: 2em;
-	line-height: 5em;
+	line-height: 3em;
 	display:inline;
 }
 
