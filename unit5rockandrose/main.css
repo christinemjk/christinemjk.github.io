@@ -74,6 +74,8 @@ section#splash {
 p#slogan {
 	text-align: center;
 	padding: 1em;
+	border: black 1px solid;
+	width: 75%;
 
 }
 
@@ -101,8 +103,8 @@ section.rockonly {
 
 #rockimg {
 	float: right;
-	width: 40%;
-	height: 40%;
+	width: 50%;
+	height: 50%;
 }
 
 section.roseonly {
@@ -120,8 +122,8 @@ section.roseonly {
 
 #roseimg {
 	float: left;
-	width: 40%;
-	height: 40%;
+	width: 50%;
+	height: 50%;
 }
 
 section.rnronly {
@@ -137,8 +139,8 @@ section.rnronly {
 
 #rnrimg {
 	float: right;
-	width: 40%;
-	height: 40%;
+	width: 50%;
+	height: 50%;
 }
 
 section.soulonly {
@@ -156,8 +158,8 @@ section.soulonly {
 
 #soulimg {
 	float: left;
-	width: 40%;
-	height: 40%;
+	width: 50%;
+	height: 50%;
 }
 
 .clearfix:after { 
