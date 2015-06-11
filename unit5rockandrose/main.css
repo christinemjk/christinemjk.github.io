@@ -9,7 +9,7 @@ body{
 }
 
 nav {
-  width: 900px;
+  width: 800px;
 }
 
 nav ul {
@@ -28,6 +28,16 @@ nav ul:after {
 nav ul li {
   display: inline-block;
   line-height: 100%;
+}
+
+header nav a {
+background-color: black;
+border: white solid 1px;
+color: #fff;
+float: left;
+margin: 0;
+padding: 1em;
+text-decoration: none;
 }
 
 section#splash {
