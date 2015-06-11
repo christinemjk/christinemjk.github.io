@@ -202,8 +202,10 @@ section.soulonly {
 }
 
 footer {
-	text-align: center;
 	padding: 1em 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
   	clear: both;
 }
 
