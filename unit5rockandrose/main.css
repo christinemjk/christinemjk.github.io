@@ -130,6 +130,7 @@ section.rockonly {
 	float: left;
 	border: black 1px solid;
 	padding: 2em;
+	text-decoration:none; 
 }
 
 #rockimg {
@@ -151,6 +152,7 @@ section.roseonly {
 	height: 40%;
 	border: black 1px solid;
 	padding: 2em;
+	text-decoration:none; 
 }
 
 #roseimg {
@@ -171,6 +173,7 @@ section.rnronly {
 	float: left;
 	border: black 1px solid;
 	padding: 2em;
+	text-decoration:none; 
 }
 
 #rnrimg {
@@ -192,6 +195,7 @@ section.soulonly {
 	height: 40%;
 	border: black 1px solid;
 	padding: 2em;
+	text-decoration:none; 
 }
 
 #soulimg {
