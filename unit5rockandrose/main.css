@@ -75,6 +75,7 @@ section#splash {
 p#slogan {
 	text-align: center;
 	padding: 1em;
+	margin: 2em;
 	border: black 1px solid;
   }
 
