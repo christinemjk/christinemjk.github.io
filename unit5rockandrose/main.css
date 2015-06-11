@@ -62,7 +62,7 @@ header nav a {
 }
 
 section {
-	padding:5em 0 5em 0;
+	padding:10em 0 10em 0;
 }
 
 section#splash {
@@ -75,7 +75,6 @@ p#slogan {
 	text-align: center;
 	padding: 1em;
 	border: black 1px solid;
-	position: fixed;
   }
 
 div {
