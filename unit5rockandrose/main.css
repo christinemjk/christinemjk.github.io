@@ -8,6 +8,20 @@ body{
 	line-height: 1.3em;
 }
 
+ul
+{
+    list-style-type: none;
+}
+
+header {
+  	background-size: cover;
+  	color: grey;
+  	font-family: Helvetica;
+  	height: 450px;
+  	text-align: center;
+
+}
+
 header nav a {
 	background-color: grey;
 	border: white solid 1px;
