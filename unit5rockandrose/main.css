@@ -3,7 +3,7 @@
 body{
 	font-family: helvetica, verdana, sans-serif;
 	font-size: 16px;
-	background-color: grey;
+	background-color: white;
 	
 }
 
@@ -101,6 +101,7 @@ section.rockonly {
 	margin: 0;
 	line-height: 2em;
 	display:inline-block;
+	background-color: grey;
 }
 
 #rock {
