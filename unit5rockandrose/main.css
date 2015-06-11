@@ -69,6 +69,13 @@ section#tabs span{
 	height: auto;
 }
 
+section#tabs span.horizontal {
+	float: left;
+	border: black solid 1px;
+	width 100%;
+	height: auto;
+}
+
 h1 {
 	text-align: center;
 	font-size: 24px;
