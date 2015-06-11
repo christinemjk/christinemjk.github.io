@@ -9,30 +9,26 @@ body{
 }
 
 ul {
-    list-style-type: none;
+    list-style: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-li {
-display: inline;
-float: left;
-}
-
-a {
-width: auto;
-background color: black;
+nav {
+	font-size: 1.8em;
+	float: left;
 }
 
 header nav a {
-background-color: black;
-border: white solid 1px;
-color: #fff;
-float: left;
-margin: 0;
-padding: 1em 2em 1em 2em;
-text-decoration: none;
+	background-color: black;
+	border: white solid 1px;
+	color: #fff;
+	float: left;
+	margin: 0;
+	padding: 1em 2em 1em 2em;
+	text-decoration: none;
+	display: inline-block;
 }
 
 section#splash {
@@ -84,8 +80,8 @@ h1 {
 }
 
 img {
-  width:100%;
-  height:auto;
+  display: block;
+  margin: 0 auto;
 }
 
 
