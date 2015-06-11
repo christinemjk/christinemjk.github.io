@@ -46,42 +46,7 @@ p#slogan {
 
 }
 
-section#tabs {
-	margin: 0 auto;
-	max-width: 100%;
-	
-}
-section#tabs div{
-	background-color: black;
-	color: #fff;
-	display: inline-block;
-	float:left;
-	margin: 5em;
-	padding: 1em;
-	text-align: center;
-	width: 25%;
-	font-size: 20px;
-}
-section#tabs div a{
-	color: white;
-	text-decoration: none;
-}
-section#tabs span{
-	color: black;
-	padding: 1em;
-	margin: 3em;
-	width: 40%;
-	border: black solid 1px;
-	float: right;
-	font-size: 12px;
-}
 
-h1 {
-	text-align: center;
-	font-size: 24px;
-	font-family: serif;
-	padding: 1em;
-}
 
 img {
   width:100%;
