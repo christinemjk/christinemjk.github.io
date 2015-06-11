@@ -91,7 +91,7 @@ div {
 
 section.rockonly {
 	padding: 1em;
-	margin: 2em;
+	margin: 0;
 	line-height: 2em;
 	display:inline-block;
 }
@@ -108,7 +108,7 @@ section.rockonly {
 
 section.roseonly {
 	padding: 1em;
-	margin: 2em;
+	margin: 0;
 	line-height: 2em;
 	display:inline-block;
 }
@@ -127,7 +127,7 @@ section.roseonly {
 
 section.rnronly {
 	padding: 1em;
-	margin: 2em;
+	margin: 0;
 	line-height: 2em;
 	display:inline-block;
 }
@@ -144,7 +144,7 @@ section.rnronly {
 
 section.soulonly {
 	padding: 1em;
-	margin: 2em;
+	margin: 0;
 	line-height: 2em;
 	display:inline-block;
 }
