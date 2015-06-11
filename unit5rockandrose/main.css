@@ -84,6 +84,7 @@ section.rockonly {
 
 #rockimg {
 	float: right;
+	width: 10%;
 }
 
 .clearfix:after { 
