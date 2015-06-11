@@ -12,11 +12,17 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 100%;
+    overflow: hidden;
 }
 
 li {
 	display: inline;
+	float: left;
+}
+
+a {
+	width: 60px;
+	background color: black;
 }
 
 header nav a {
@@ -27,8 +33,6 @@ header nav a {
 	margin: 0;
 	padding: 1em;
 	text-decoration: none;
-	display: inline;
-	width: 80%;
 }
 
 section#splash {
