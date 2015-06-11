@@ -59,7 +59,8 @@ section#tabs div{
 	margin: 3em;
 	padding: 1em;
 	text-align: center;
-	width: 40%;
+	width: 30%;
+	font-size: 20px;
 }
 section#tabs div a{
 	color: white;
@@ -69,10 +70,10 @@ section#tabs span{
 	color: black;
 	padding: 1em;
 	margin: 3em;
-	width: 30%;
+	width: 40%;
 	border: black solid 1px;
 	float: right;
-	font-size: 18px;
+	font-size: 12px;
 }
 
 h1 {
