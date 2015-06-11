@@ -72,6 +72,11 @@ div {
 	width: 50%;
 }
 
+section#rockonly {
+	padding: 3em;
+	margin: 3em;
+}
+
 #rock {
 	float: left;
 }
