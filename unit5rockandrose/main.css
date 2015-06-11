@@ -23,13 +23,21 @@ header nav a {
 	color: #fff;
 	float: left;
 	margin: 0;
-	padding: 2em;
+	paddin: 2em;
 	text-decoration: none;
 	display: inline-block;
 }
 
 ul {
     list-style-type: none;
+}
+
+section#splash {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	color:#ffffff;
+	height:100vh;
 }
 
 .clearfix:after { 
