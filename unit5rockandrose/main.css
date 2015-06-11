@@ -65,6 +65,12 @@ header nav a {
 	text-align: center;
 }
 
+#logo {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
 section {
 	padding:7em 0 7em 0;
 	margin: 3em 0 3em 0;
