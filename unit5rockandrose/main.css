@@ -79,6 +79,13 @@ p#slogan {
 	border: black 1px solid;
   }
 
+p#intro {
+text-align: center;
+	padding: 1em;
+	margin: 2em;
+	border: black 1px solid;
+}
+
 div {
 	font-size 1.2em;
 	width: 50%;
