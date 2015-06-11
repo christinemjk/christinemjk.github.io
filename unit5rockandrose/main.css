@@ -88,12 +88,6 @@ img {
   height:auto;
 }
 
-#styles {
-	width: 30%;
-	height: 30%;
-	float: left;
-	padding: 2em;
-}
 
 .clearfix:after { 
 	content: "."; 
