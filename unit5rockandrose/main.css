@@ -89,7 +89,7 @@ p#slogan {
 	display: inline-block;
 	margin: 1em;
 	border: black 1px solid;
-	font-size: 1em;
+	font-size: 1.5em;
 	font-style: italic;
 	font-weight: bold;
   }
@@ -106,7 +106,7 @@ text-align: center;
 	display:inline-block;
 	margin: 1em;
 	border: black 1px solid;
-	font-size: 1em;
+	font-size: 1.5em;
 	font-style: italic;
 	font-weight: bold;
 }
