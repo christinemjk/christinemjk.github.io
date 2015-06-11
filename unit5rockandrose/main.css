@@ -16,23 +16,23 @@ ul {
 }
 
 li {
-display: inline;
-float: left;
+	display: inline;
+	float: left;
 }
 
 a {
-width: auto;
-background color: black;
+	width: auto;
+	background color: black;
 }
 
 header nav a {
-background-color: black;
-border: white solid 1px;
-color: #fff;
-float: left;
-margin: 0;
-padding: 1em;
-text-decoration: none;
+	background-color: black;
+	border: white solid 1px;
+	color: #fff;
+	float: left;
+	margin: 0;
+	padding: 1em;
+	text-decoration: none;
 }
 
 section#splash {
@@ -59,7 +59,7 @@ section#tabs div{
 	margin: 3em;
 	padding: 1em;
 	text-align: center;
-	width: 30%;
+	width: 25%;
 	font-size: 20px;
 }
 section#tabs div a{
