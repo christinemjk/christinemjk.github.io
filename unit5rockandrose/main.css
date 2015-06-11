@@ -48,17 +48,13 @@ a {
 	background color: black;
 }
 
-.main-container {
-    float:left;
-    position:relative;
-    left:50%;
-}
-
 header nav a {
 	background-color: black;
 	border: white solid 1px;
 	color: #fff;
 	float: left;
+	position: relative;
+	left:50%;
 	margin: 0;
 	padding: 1em;
 	text-decoration: none;
