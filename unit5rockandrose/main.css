@@ -19,11 +19,11 @@ header {
 
 header nav a {
 	background-color: black;
-	border: white solid 0.5px;
+	border: white solid 1px;
 	color: #fff;
 	float: left;
 	margin: 0;
-	padding: 3em;
+	padding: 2em;
 	text-decoration: none;
 }
 
