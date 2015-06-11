@@ -27,6 +27,7 @@ h2 {
 	color: black;
 	border-bottom-color: black;
 	text-align: center;
+	text-decoration:none; 
 }
 
 img {
@@ -75,7 +76,6 @@ section {
 	padding:7em 0 7em 0;
 	margin: 3em 0 3em 0;
 	font-family: 'Open Sans Condensed', sans-serif;
-	text-decoration:none; 
 }
 
 section#splash {
