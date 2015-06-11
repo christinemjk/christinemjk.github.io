@@ -121,6 +121,13 @@ section.soulonly {
 	margin: 2em;
 	line-height: 2em;
 	display:inline-block;
+	float: right;
+}
+
+#soulimg {
+	float: left;
+	width: 40%;
+	height: 40%;
 }
 
 .clearfix:after { 
