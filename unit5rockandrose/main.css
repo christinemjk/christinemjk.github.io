@@ -9,26 +9,30 @@ body{
 }
 
 ul {
-    list-style: none;
+    list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-nav {
-	font-size: 1em;
-	float: left;
-	display: inline;
+li {
+display: inline;
+float: left;
+}
+
+a {
+width: auto;
+background color: black;
 }
 
 header nav a {
-	background-color: black;
-	border: white solid 1px;
-	color: #fff;
-	float: left;
-	margin: 0;
-	padding: 1em 2em 1em 2em;
-	text-decoration: none;
+background-color: black;
+border: white solid 1px;
+color: #fff;
+float: left;
+margin: 0;
+padding: 1em;
+text-decoration: none;
 }
 
 section#splash {
