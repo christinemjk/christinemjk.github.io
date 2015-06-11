@@ -64,7 +64,7 @@ section#tabs span{
 	margin: 1em;
 	border: black solid 1px;
 	float: right;
-	width: 50%;
+	width: 40%;
 	height: auto;
 }
 
@@ -81,8 +81,8 @@ img {
 
 .horizontal {
 	float: left;
-	width: 50%;
-	height: auto;
+	width: 40%;
+	height: 40%;
 }
 
 .clearfix:after { 
