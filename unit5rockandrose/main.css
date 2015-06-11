@@ -48,11 +48,11 @@ p#slogan {
 
 section#tabs {
 	margin: 0 auto;
-	max-width: 960px;
+	max-width: 100%;
 	
 }
 section#tabs div{
-	background-color: grey;
+	background-color: black;
 	color: #fff;
 	display: inline-block;
 	float=left;
@@ -66,9 +66,10 @@ section#tabs div a{
 	text-decoration: none;
 }
 section#tabs span{
-	color: grey;
+	color: black;
 	padding: 2em;
 	width: 580px;
+	border: black solid 1px;
 }
 
 h1 {
