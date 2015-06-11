@@ -76,7 +76,9 @@ p#slogan {
 #video {
 	width: 50%;
 	height: 50%;
-	position: center;
+	position: relative;
+	left: 100px;
+	right: 100px;
 }
 
 div {
