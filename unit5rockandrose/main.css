@@ -72,6 +72,14 @@ div {
 	width: 50%;
 }
 
+#rock {
+	float: left;
+}
+
+#rose {
+	float: right;
+}
+
 .clearfix:after { 
 	content: "."; 
 	visibility: hidden; 
