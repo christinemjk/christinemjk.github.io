@@ -51,9 +51,9 @@ section#tabs div{
 	color: black;
 	font-size: 22px;
 	font-family: serif;
-	padding: 1em;
-	margin: 1em;
-	text-align: center;
+	padding: 0;
+	margin: 0;
+	float: left;
 
 }
 
