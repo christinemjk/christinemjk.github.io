@@ -85,6 +85,11 @@ p#slogan {
 	border: black 1px solid;
   }
 
+#video {
+	width: 50%;
+	height: 50%;
+}
+
 p#intro {
 text-align: center;
 	padding: 1em;
