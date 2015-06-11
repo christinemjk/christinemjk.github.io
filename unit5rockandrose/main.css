@@ -76,18 +76,7 @@ p#slogan {
 	padding: 1em;
 	border: black 1px solid;
 	position: fixed;
-  	top: 50%;
-  	left: 50%;
-  	margin-top: -50px;
-  	margin-left: -100px;
-
-}
-
-#video {
-	width: 50%;
-	height: 50%;
-	position: relative;
-}
+  }
 
 div {
 	font-size 1.2em;
