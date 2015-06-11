@@ -24,6 +24,11 @@ header nav a {
 	display: inline;
 }
 
+section#splash {
+	padding: 1em;
+	margin: 0;
+}
+
 .clearfix:after { 
 	content: "."; 
 	visibility: hidden; 
