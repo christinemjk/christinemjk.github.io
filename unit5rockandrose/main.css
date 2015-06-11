@@ -150,6 +150,7 @@ section.soulonly {
 	border: black 1px solid;
 	border-collapse: separate;
 	border-spacing: 20px;
+	padding: 2em;
 }
 
 #soulimg {
