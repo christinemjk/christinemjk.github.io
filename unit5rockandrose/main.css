@@ -44,6 +44,7 @@ li {
 }
 
 a {
+	display: block;
 	width: auto;
 	background color: black;
 }
@@ -81,8 +82,8 @@ div {
 section.rockonly {
 	padding: 1em;
 	margin: 2em;
-	line-height: 3em;
-	display:block;
+	line-height: 2em;
+	display:inline-block;
 }
 
 #rock {
@@ -98,28 +99,28 @@ section.rockonly {
 section.roseonly {
 	padding: 1em;
 	margin: 2em;
-	line-height: 3em;
-	display:block;
+	line-height: 2em;
+	display:inline-block;
 }
 
 #roseimg {
 	float: right;
-	width: 40%
+	width: 40%;
 	height: 40%;
 }
 
 section.rnronly {
 	padding: 1em;
 	margin: 2em;
-	line-height: 3em;
-	display:block;
+	line-height: 2em;
+	display:inline-block;
 }
 
 section.soulonly {
 	padding: 1em;
 	margin: 2em;
-	line-height: 3em;
-	display:block;
+	line-height: 2em;
+	display:inline-block;
 }
 
 .clearfix:after { 
