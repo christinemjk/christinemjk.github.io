@@ -56,8 +56,8 @@ section#tabs div{
 	color: #fff;
 	display: inline-block;
 	float:left;
-	margin: 1em;
-	padding: 3em;
+	margin: 2em;
+	padding: 0;
 	text-align: center;
 	width: 40%;
 }
@@ -67,7 +67,8 @@ section#tabs div a{
 }
 section#tabs span{
 	color: black;
-	padding: 3em;
+	padding: 0;
+	margin: 2em;
 	width: 40%;
 	border: black solid 1px;
 	float: right;
