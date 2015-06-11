@@ -92,6 +92,8 @@ section.rockonly {
 
 #rock {
 	float: left;
+	border: black 1px solid;
+	padding: 2em;
 }
 
 #rockimg {
@@ -111,6 +113,8 @@ section.roseonly {
 	float: right;
 	width: 40%;
 	height: 40%;
+	border: black 1px solid;
+	padding: 2em;
 }
 
 #roseimg {
@@ -128,6 +132,8 @@ section.rnronly {
 
 #rnr {
 	float: left;
+	border: black 1px solid;
+	padding: 2em;
 }
 
 #rnrimg {
