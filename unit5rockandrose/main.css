@@ -103,8 +103,14 @@ section.roseonly {
 	display:inline-block;
 }
 
-#roseimg {
+#rose {
 	float: right;
+	width: 40%;
+	height: 40%;
+}
+
+#roseimg {
+	float: left;
 	width: 40%;
 	height: 40%;
 }
