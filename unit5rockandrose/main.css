@@ -9,7 +9,7 @@ body {
 }
 
 header {
-	background: url(http://i.imgur.com/WQCuVnq.jpg);
+	background: white;
 	background-size: cover;
 	color: white;
 	font-family: Helvetica;
@@ -18,8 +18,8 @@ header {
 }
 
 header nav a {
-	background-color: grey;
-	border: white solid 1px;
+	background-color: black;
+	border: white solid 0.5px;
 	color: #fff;
 	float: left;
 	margin: 0;
