@@ -8,26 +8,21 @@ body{
 	line-height: 1.3em;
 }
 
-nav {
-  width: 800px;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
-nav ul {
-  text-align: justify;
-  line-height: 0;
-  margin: 0;
-  padding: 0;
+li {
+display: inline;
+float: left;
 }
 
-nav ul:after {
-  content: '';
-  display: inline-block;
-  width: 100%;
-}
-
-nav ul li {
-  display: inline-block;
-  line-height: 100%;
+a {
+width: auto;
+background color: black;
 }
 
 header nav a {
@@ -38,6 +33,7 @@ float: left;
 margin: 0;
 padding: 1em;
 text-decoration: none;
+width: 800px;
 }
 
 section#splash {
