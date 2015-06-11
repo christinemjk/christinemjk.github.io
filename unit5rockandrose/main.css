@@ -48,6 +48,12 @@ a {
 	background color: black;
 }
 
+.main-container {
+    float:left;
+    position:relative;
+    left:50%;
+}
+
 header nav a {
 	background-color: black;
 	border: white solid 1px;
