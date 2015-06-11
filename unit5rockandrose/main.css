@@ -75,6 +75,7 @@ section {
 	padding:7em 0 7em 0;
 	margin: 3em 0 3em 0;
 	font-family: 'Open Sans Condensed', sans-serif;
+	text-decoration:none; 
 }
 
 section#splash {
@@ -130,7 +131,6 @@ section.rockonly {
 	float: left;
 	border: black 1px solid;
 	padding: 2em;
-	text-decoration:none; 
 }
 
 #rockimg {
@@ -152,7 +152,6 @@ section.roseonly {
 	height: 40%;
 	border: black 1px solid;
 	padding: 2em;
-	text-decoration:none; 
 }
 
 #roseimg {
@@ -173,7 +172,6 @@ section.rnronly {
 	float: left;
 	border: black 1px solid;
 	padding: 2em;
-	text-decoration:none; 
 }
 
 #rnrimg {
@@ -195,7 +193,6 @@ section.soulonly {
 	height: 40%;
 	border: black 1px solid;
 	padding: 2em;
-	text-decoration:none; 
 }
 
 #soulimg {
