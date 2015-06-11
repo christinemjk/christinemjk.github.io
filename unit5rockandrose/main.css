@@ -8,11 +8,6 @@ body{
 	line-height: 1.3em;
 }
 
-ul
-{
-    list-style-type: none;
-}
-
 header nav a {
 	background-color: black;
 	border: white solid 1px;
