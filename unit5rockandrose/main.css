@@ -1,7 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Lekton:400,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic);
 * { margin:0;padding:0;box-sizing:border-box; }
 
 body{
-	font-family: helvetica, verdana, sans-serif;
+	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 16px;
 	background-color: white;
 	
@@ -65,6 +67,7 @@ header nav a {
 section {
 	padding:7em 0 7em 0;
 	margin: 3em 0 3em 0;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 section#splash {
@@ -142,6 +145,7 @@ section.rnronly {
 	margin: 0;
 	line-height: 2em;
 	display:inline-block;
+	background-color: #E8E8E8;
 }
 
 #rnr {
