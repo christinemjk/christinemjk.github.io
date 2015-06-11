@@ -53,7 +53,8 @@ header nav a {
 	border: white solid 1px;
 	color: #fff;
 	float: left;
-	position: absolute;
+	position: relative;
+	left: 50%;
 	margin: 0;
 	padding: 1em;
 	text-decoration: none;
