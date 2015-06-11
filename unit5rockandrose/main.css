@@ -81,7 +81,7 @@ div {
 section.rockonly {
 	padding: 1em;
 	margin: 2em;
-	height: 5em;
+	line-height: 5em;
 	display:block;
 }
 
@@ -98,10 +98,23 @@ section.rockonly {
 section.roseonly {
 	padding: 1em;
 	margin: 2em;
-	height: 5em;
+	line-height: 5em;
 	display:block;
 }
 
+section.rnronly {
+	padding: 1em;
+	margin: 2em;
+	line-height: 5em;
+	display:block;
+}
+
+section.soulonly {
+	padding: 1em;
+	margin: 2em;
+	line-height: 5em;
+	display:block;
+}
 
 .clearfix:after { 
 	content: "."; 
