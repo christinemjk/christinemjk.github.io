@@ -34,7 +34,9 @@ section#splash {
 	margin: 0;
 }
 
-
+p#slogan {
+	text-align: center;
+}
 
 h1, h2 {
 	text-align: center;
