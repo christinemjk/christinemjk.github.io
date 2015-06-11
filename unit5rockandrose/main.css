@@ -1,0 +1,103 @@
+* { margin:0;padding:0;box-sizing:border-box; }
+
+body{
+	background-color: white;
+	color: black;
+	font-family: helvetica, verdana, sans-serif;
+	font-size: 16px;
+	line-height: 1.3em;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+	display: inline;
+	float: left;
+}
+
+a {
+	width: auto;
+	background color: black;
+}
+
+header nav a {
+	background-color: black;
+	border: white solid 1px;
+	color: #fff;
+	float: left;
+	margin: 0;
+	padding: 1em;
+	text-decoration: none;
+}
+
+section#splash {
+	padding: 1em;
+	margin: 0;
+}
+
+p#slogan {
+	text-align: center;
+	padding: 1em;
+
+}
+
+section#tabs {
+	margin: 0 auto;
+	max-width: 100%;
+	
+}
+section#tabs div{
+	background-color: black;
+	color: #fff;
+	display: inline-block;
+	float:left;
+	margin: 3em;
+	padding: 1em;
+	text-align: center;
+	width: 25%;
+	font-size: 20px;
+}
+section#tabs div a{
+	color: white;
+	text-decoration: none;
+}
+section#tabs span{
+	color: black;
+	padding: 1em;
+	margin: 3em;
+	width: 40%;
+	border: black solid 1px;
+	float: right;
+	font-size: 12px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 24px;
+	font-family: serif;
+	padding: 1em;
+}
+
+img {
+  width:100%;
+  height:auto;
+}
+
+#styles {
+	width: 40%;
+	height: 40%;
+	float: left;
+}
+
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
+}
