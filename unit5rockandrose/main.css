@@ -59,7 +59,7 @@ section#tabs div{
 	margin: 1em;
 	padding: 2em;
 	text-align: center;
-	width: 380px;
+	width: 40%;
 }
 section#tabs div a{
 	color: white;
@@ -68,8 +68,9 @@ section#tabs div a{
 section#tabs span{
 	color: black;
 	padding: 2em;
-	width: 580px;
+	width: 40%;
 	border: black solid 1px;
+	float: right;
 }
 
 h1 {
