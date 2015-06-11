@@ -75,7 +75,9 @@ p#slogan {
 	text-align: center;
 	padding: 1em;
 	border: black 1px solid;
-	width: 75%;
+	position: absolute;
+	left: 100px;
+	top: 150px;
 
 }
 
