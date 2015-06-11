@@ -8,31 +8,26 @@ body{
 	line-height: 1.3em;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+nav {
+  width: 900px;
 }
 
-li {
-	display: inline;
-	float: left;
+nav ul {
+  text-align: justify;
+  line-height: 0;
+  margin: 0;
+  padding: 0;
 }
 
-a {
-	width: auto;
-	background color: black;
+nav ul:after {
+  content: '';
+  display: inline-block;
+  width: 100%;
 }
 
-header nav a {
-	background-color: black;
-	border: white solid 1px;
-	color: #fff;
-	float: left;
-	margin: 0;
-	padding: 1em;
-	text-decoration: none;
+nav ul li {
+  display: inline-block;
+  line-height: 100%;
 }
 
 section#splash {
@@ -80,6 +75,7 @@ h1 {
 	text-align: center;
 	font-size: 24px;
 	font-family: serif;
+	padding: 1em;
 }
 
 img {
