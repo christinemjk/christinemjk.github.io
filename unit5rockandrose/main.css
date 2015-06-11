@@ -73,6 +73,11 @@ p#slogan {
 
 }
 
+#video {
+	width: 50%;
+	height: 50%;
+}
+
 div {
 	font-size 1.2em;
 	width: 50%;
