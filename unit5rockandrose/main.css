@@ -32,7 +32,7 @@ img {
 
 
 #nav {
-	width:750px;
+	width:800px;
 	margin:0 auto;
 	list-style:none;
 }
@@ -44,7 +44,7 @@ img {
 #nav a {
 	display:block;
 	text-align:center;
-	width:125px; 
+	width:115px; 
 	text-decoration:none; 
 }
 
