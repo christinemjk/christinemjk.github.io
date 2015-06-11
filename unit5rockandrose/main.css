@@ -20,11 +20,11 @@ li {
 }
 
 header nav a {
-	background-color: black;
-	border: white solid 1px;
-	color: #fff;
+	background-color: white;
+	border: black solid 1px;
+	color: black;
 	float: left;
-	margin: 0;
+	margin: 1em;
 	padding: 2em;
 	text-decoration: none;
 }
