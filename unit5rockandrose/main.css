@@ -19,8 +19,9 @@ header nav a {
 	color: #fff;
 	float: left;
 	margin: 0;
-	padding: 1em;
+	padding: 2em;
 	text-decoration: none;
+	display: inline;
 }
 
 .clearfix:after { 
