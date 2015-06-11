@@ -55,6 +55,7 @@ header nav a {
 	float: left;
 	position: relative;
 	left:50%;
+	right: 50%;
 	margin: 0;
 	padding: 1em;
 	text-decoration: none;
@@ -82,7 +83,7 @@ section.rockonly {
 	padding: 1em;
 	margin: 2em;
 	line-height: 5em;
-	display:block;
+	display:inline-table;
 }
 
 #rock {
@@ -99,7 +100,7 @@ section.roseonly {
 	padding: 1em;
 	margin: 2em;
 	line-height: 5em;
-	display:block;
+	display:inline;
 }
 
 #roseimg {
@@ -112,14 +113,14 @@ section.rnronly {
 	padding: 1em;
 	margin: 2em;
 	line-height: 5em;
-	display:block;
+	display:inline;
 }
 
 section.soulonly {
 	padding: 1em;
 	margin: 2em;
 	line-height: 5em;
-	display:block;
+	display:inline;
 }
 
 .clearfix:after { 
