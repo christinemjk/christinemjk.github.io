@@ -18,6 +18,7 @@ ul {
 li {
 display: inline;
 float: left;
+width: 800px;
 }
 
 a {
@@ -33,7 +34,6 @@ float: left;
 margin: 0;
 padding: 1em;
 text-decoration: none;
-width: 800px;
 }
 
 section#splash {
