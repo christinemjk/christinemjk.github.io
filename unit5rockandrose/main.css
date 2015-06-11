@@ -79,11 +79,6 @@ img {
   height:auto;
 }
 
-.horizontal {
-	float: left;
-	width: 40%;
-	height: 40%;
-}
 
 .clearfix:after { 
 	content: "."; 
