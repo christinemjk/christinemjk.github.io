@@ -122,7 +122,15 @@ section.rnronly {
 	display:inline-block;
 }
 
+#rnr {
+	float: left;
+}
 
+#rnrimg {
+	float: right;
+	width: 40%;
+	height: 40%;
+}
 
 section.soulonly {
 	padding: 1em;
