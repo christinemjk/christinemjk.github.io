@@ -102,6 +102,12 @@ section.roseonly {
 	display:block;
 }
 
+#roseimg {
+	float: right;
+	width: 40%
+	height: 40%;
+}
+
 section.rnronly {
 	padding: 1em;
 	margin: 2em;
