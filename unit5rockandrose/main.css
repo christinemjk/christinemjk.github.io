@@ -82,6 +82,7 @@ section.rockonly {
 	padding: 1em;
 	margin: 2em;
 	height: 5em;
+	display:inline-block;
 }
 
 #rock {
