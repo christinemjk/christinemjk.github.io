@@ -58,6 +58,9 @@ section#tabs span{
 	padding: 1em;
 	margin: 1em;
 	border: black solid 1px;
+	float: right;
+	width: 50%;
+	height: auto;
 }
 
 h1 {
