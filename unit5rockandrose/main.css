@@ -55,9 +55,9 @@ section#tabs div{
 	background-color: black;
 	color: #fff;
 	display: inline-block;
-	float=left;
+	float:left;
 	margin: 1em;
-	padding: 2em;
+	padding: 3em;
 	text-align: center;
 	width: 40%;
 }
@@ -67,7 +67,7 @@ section#tabs div a{
 }
 section#tabs span{
 	color: black;
-	padding: 2em;
+	padding: 3em;
 	width: 40%;
 	border: black solid 1px;
 	float: right;
