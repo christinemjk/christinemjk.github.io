@@ -82,6 +82,11 @@ h1 {
 	font-family: serif;
 }
 
+img {
+  width:100%;
+  height:auto;
+}
+
 .clearfix:after { 
 	content: "."; 
 	visibility: hidden; 
