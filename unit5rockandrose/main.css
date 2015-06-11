@@ -201,6 +201,12 @@ section.soulonly {
 	height: 50%;
 }
 
+footer {
+	text-align: center;
+	padding: 1em 0;
+  	clear: both;
+}
+
 .clearfix:after { 
 	content: "."; 
 	visibility: hidden; 
