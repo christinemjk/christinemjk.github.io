@@ -88,6 +88,8 @@ p#slogan {
 #video {
 	width: 50%;
 	height: 50%;
+	display: block;
+	margin: 0 auto;
 }
 
 p#intro {
