@@ -48,6 +48,7 @@ h1 {
 	text-transform: lowercase;
 	font-family: 'Lekton', sans-serif;
 	margin-top: 7em;
+	padding-left: 1em;
 }
 
 #slogan{
@@ -57,6 +58,7 @@ h1 {
 	font-family: 'Open Sans Condensed', sans-serif;
 	text-align: left;
 	margin-top: .5em;
+	padding-left: 1em;
 	text-transform: lowercase;
 }
 #bulletpoint{
