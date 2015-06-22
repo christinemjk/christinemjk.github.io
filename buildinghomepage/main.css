@@ -43,12 +43,11 @@ section#splash {
 	height:100vh;
 }
 h1 {
-	text-align: left;
+	text-align: center;
 	font-size: 3em;
 	text-transform: lowercase;
 	font-family: 'Lekton', sans-serif;
-	margin-top: 7em;
-	padding-left: .5em;
+	margin-top: 3em;
 }
 
 #slogan{
@@ -56,9 +55,8 @@ h1 {
 	font-size: 1.5em;
 	font-weight: bold;
 	font-family: 'Open Sans Condensed', sans-serif;
-	text-align: left;
-	margin-top: .5em;
-	padding-left: 1em;
+	text-align: center;
+	margin-top: 1em;
 	text-transform: lowercase;
 }
 #bulletpoint{
