@@ -26,19 +26,6 @@ body {
 	text-decoration:none; 
 }
 
-header nav a {
-	background-color: black;
-	border: white solid 1px;
-	color: #fff;
-	float: left;
-	position: relative;
-	left: 50%;
-	margin: 0;
-	padding: 1em;
-	text-decoration: none;
-	text-align: center;
-}
-
 section {
 	border:1px solid #000;
 	padding:5em 0 5em 0;
