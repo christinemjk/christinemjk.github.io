@@ -64,3 +64,9 @@ h1 {
 #bulletpoint{
 	text-align: left;
 }
+
+img {
+	width: 50%;
+	height: 50%;
+
+}
