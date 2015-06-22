@@ -17,6 +17,7 @@ body {
 
 #nav ul {
 	text-align: center;
+	float: left;
 }
 
 #nav a {
