@@ -39,7 +39,7 @@ section#splash {
 	height:100vh;
 }
 h1 {
-	text-align: center;
+	text-align: left;
 	font-size: 4em;
 	text-transform: uppercase;
 	font-family: 'Lekton', sans-serif;
@@ -50,7 +50,7 @@ h1 {
 	font-size: 2em;
 	font-weight: bold;
 	font-family: 'Open Sans Condensed', sans-serif;
-	text-align: center;
+	text-align: left;
 	margin-top: 1em;
 }
 #bulletpoint{
