@@ -39,24 +39,25 @@ section#splash {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment:fixed;
-	color:#FFFFFF;
+	color:#000000;
 	height:100vh;
 }
 h1 {
 	text-align: left;
-	font-size: 4em;
-	text-transform: uppercase;
+	font-size: 3em;
+	text-transform: lowercase;
 	font-family: 'Lekton', sans-serif;
 	margin-top: 5em;
 }
 
 #slogan{
 	font-style: italic;
-	font-size: 2em;
+	font-size: 1em;
 	font-weight: bold;
 	font-family: 'Open Sans Condensed', sans-serif;
 	text-align: left;
 	margin-top: 0.7em;
+	text-transform: lowercase;
 }
 #bulletpoint{
 	text-align: left;
