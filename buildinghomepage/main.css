@@ -82,25 +82,4 @@ img {
 	clear: both;
 }
 
-@media only screen and (min-width: 320px){
-	nav {
-		float: none;
-	}
 
-	h1, nav {
-		display: block;
-		text-align: center;
-	}
-
-}
-
-@media only screen and (max-width: 768px){
-	nav {
-		float: none;
-	}
-
-	h1, nav {
-		display: block;
-		text-align: center;
-	}
-}
