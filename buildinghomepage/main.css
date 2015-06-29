@@ -10,7 +10,7 @@ body {
 }
 
 #nav {
-	width:80%;
+	width:800px;
 	margin:0 auto;
 	list-style:none;
 }
@@ -26,7 +26,7 @@ body {
 #nav a {
 	display:inline-block;
 	text-align:center;
-	width:100%; 
+	width:120px; 
 	text-decoration:none; 
 }
 
