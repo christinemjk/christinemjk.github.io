@@ -92,15 +92,6 @@ img {
 		text-align: center;
 	}
 
-	#splash {
-		background: url("images/albertdock.jpg");
-		background-size: cover;
-		background-repeat: no-repeat;
-		background-attachment:fixed;
-		width: 100%;
-
-	}
-
 }
 
 @media only screen and (max-width: 768px){
