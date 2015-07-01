@@ -82,9 +82,3 @@ img {
 	height: 0; 
 	clear: both;
 }
-
-@media only screen and (max-width:800px) {
-	nav {
-		float: none;
-	}
-}
