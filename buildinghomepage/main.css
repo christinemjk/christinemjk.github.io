@@ -118,7 +118,11 @@ img {
 	}
 
 	h1 {
-		font-size: 2em;
+		font-size: 1.75em;
+	}
+
+	#slogan {
+		font-size: 1em;
 	}
 
 }
@@ -136,7 +140,11 @@ img {
 	}
 
 	h1 {
-		font-size: 2em;
+		font-size: 1.75em;
+	}
+
+	#slogan {
+		font-size: 1em;
 	}
 	
 }
