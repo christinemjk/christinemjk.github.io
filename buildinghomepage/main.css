@@ -52,10 +52,8 @@ section {
 	padding:5em 0 5em 0;
 }
 section#splash {
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
 	background: url("images/albertdock.jpg");
+	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment:fixed;
@@ -104,6 +102,11 @@ img {
 }
 
 @media only screen and (min-width: 650px) and (max-width: 1280px) {
+	body {
+		background-image: url("images/albertdock.jpg");
+		height: 100%;
+	}
+
 	nav {
 		font-size: 1em;
 		color: #000000;
