@@ -60,6 +60,10 @@ section#splash {
 	color:#000000;
 	height:100vh;
 	width: 100%;
+	webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
 }
 
 h1 {
@@ -127,11 +131,12 @@ img {
 	}
 
 }
-@media only screen and (max-width: 650px) {
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) { 
+{
 	body {
 		background: url("images/albertdock.jpg");
 		background-position: center center;
-		background-size: cover;
+		background-size: ;
 		background-repeat: no-repeat;
 		background-attachment:fixed;
 		color:#000000;
