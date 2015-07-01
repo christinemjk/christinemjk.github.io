@@ -11,11 +11,10 @@ body {
 
 nav {
 	height: 24px;
-	width:50%;
+	width:100%;
 	position: relative;
 	font-weight: bold;
 	list-style:none;
-	text-align: center;
 }
 
 nav ul {
