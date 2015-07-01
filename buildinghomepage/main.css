@@ -39,10 +39,6 @@ nav a {
     text-shadow: 1px 1px 0px #283744;
 }
 
-nav li:last-child a {
-    border-right: 0;
-}
-
 nav a:hover, nav a:active {
     background-color: #999999;
 }
