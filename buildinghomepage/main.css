@@ -117,8 +117,8 @@ img {
 		float: none;
 	}
 
-	nav a {
-		padding: 1em .25em;
+	h1 {
+		font-size: 2em;
 	}
 
 }
@@ -133,6 +133,10 @@ img {
 
 	nav {
 		font-size: 1em;
+	}
+
+	h1 {
+		font-size: 2em;
 	}
 	
 }
