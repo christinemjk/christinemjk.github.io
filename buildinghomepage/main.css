@@ -87,6 +87,11 @@ img {
 	nav {
 		font-size: 1em;
 	}
+
+	#nav li {
+		float: none;
+	}
+
 	nav a {
 		padding: 1em .25em;
 	}
@@ -97,6 +102,11 @@ img {
 		font-size: 2em;
 		padding: .25em 0 0 0;
 	}
+
+	#nav li {
+		float: none;
+	}
+
 	nav {
 		display: none;
 	}
