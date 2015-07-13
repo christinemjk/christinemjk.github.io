@@ -66,8 +66,8 @@ section#splash {
 }
 
 h1 {
-	text-align: left;
-	font-size: 10em;
+	text-align: center;
+	font-size: 20em;
 	text-transform: uppercase;
 	font-family: 'Lekton', sans-serif;
 	margin-top: 3em;
