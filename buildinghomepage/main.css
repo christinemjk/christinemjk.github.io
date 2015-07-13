@@ -74,12 +74,13 @@ h1 {
 
 #slogan{
 	font-style: italic;
-	font-size: 1.5em;
+	font-size: 3em;
 	font-weight: bold;
 	font-family: 'Open Sans Condensed', sans-serif;
 	text-align: center;
 	margin-top: 1em;
-	text-transform: lowercase;
+	background-color: black;
+	color: white;
 }
 #bulletpoint{
 	text-align: left;
