@@ -88,14 +88,17 @@ h1 {
 	width: 35%;
 	height: 35%;
 	margin: 1em;
+	float: right;
 }
 
 .bulletpoint{
 	text-align: left;
+	float: left;
 }
 
 #mission {
 	text-align: left;
+	float: left;
 }
 
 .clearfix:before,
