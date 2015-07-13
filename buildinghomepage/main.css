@@ -94,6 +94,10 @@ h1 {
 	margin: 1em;
 }
 
+#mission {
+	text-align: left;
+}
+
 .clearfix:before,
 .clearfix:after { 
 	content: "."; 
