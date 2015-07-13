@@ -127,6 +127,9 @@ h1 {
 	width: 33%;
 	height: 33%;
 	padding: 1em;
+	display: block;
+	position: relative;
+	overflow: hidden;
 }
 
 .clearfix:before,
