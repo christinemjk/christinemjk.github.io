@@ -123,11 +123,14 @@ h1 {
 }
 
 #c1, #c2, #c3 {
-	float: left;
 	width: 33%;
+	float: left;
 	padding: 1em;
-	position: relative;
-	clear: left;
+}
+
+#inner {
+	width: 101%;
+	overflow: hidden;
 }
 
 #works {
@@ -135,7 +138,7 @@ h1 {
 }
 
 #works img {
-	width: 33%;
+	width: 100%;
 	height: auto;
 }
 
