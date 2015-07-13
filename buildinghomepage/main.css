@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Arvo);
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic);
 * { margin:0;padding:0;box-sizing:border-box; }
 
@@ -67,7 +67,7 @@ section#splash {
 h1 {
 	text-align: center;
 	font-size: 30em;
-	font-family: 'Arvo', serif;
+	font-family: 'Playfair Display', serif;
 	margin-top: 3em;
 }
 
