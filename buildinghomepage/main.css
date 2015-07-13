@@ -84,22 +84,21 @@ h1 {
 	color: white;
 }
 
-#about {
-	float: left;
-}
-
 .aboutme img{
 	width: 35%;
 	height: 35%;
 	margin: 1em;
+	float: left;
 }
 
 .bulletpoint{
 	text-align: left;
+	float: left;
 }
 
 #mission {
 	text-align: left;
+	float: left;
 }
 
 .clearfix:before,
