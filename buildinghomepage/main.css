@@ -123,9 +123,10 @@ h1 {
 }
 
 #c1, #c2, #c3 {
+	float: left;
 	width: 33%;
 	height: 33%;
-	margin: 1em;
+	padding: 1em;
 }
 
 .clearfix:before,
