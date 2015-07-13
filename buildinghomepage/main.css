@@ -6,7 +6,7 @@
 body {
 	text-align: center;
 	color: #333;
-	font-size: 16px;
+	font-size: 18px;
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
@@ -66,11 +66,11 @@ section#splash {
 }
 
 h1 {
-	text-align: center;
-	font-size: 3em;
+	text-align: left;
+	font-size: 5em;
 	text-transform: lowercase;
 	font-family: 'Lekton', sans-serif;
-	margin-top: 3em;
+	margin-top: 5em;
 }
 
 #slogan{
@@ -78,7 +78,7 @@ h1 {
 	font-size: 1.5em;
 	font-weight: bold;
 	font-family: 'Open Sans Condensed', sans-serif;
-	text-align: center;
+	text-align: right;
 	margin-top: 1em;
 	text-transform: lowercase;
 }
