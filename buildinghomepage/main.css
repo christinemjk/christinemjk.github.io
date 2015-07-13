@@ -122,6 +122,10 @@ h1 {
 	margin-top: .8em;
 }
 
+#c1, #c2, #c3 {
+	width: 33%;
+}
+
 .clearfix:before,
 .clearfix:after { 
 	content: "."; 
