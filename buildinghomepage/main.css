@@ -84,13 +84,13 @@ h1 {
 	color: white;
 }
 
-#bulletpoint{
+.bulletpoint{
 	text-align: left;
 }
 
-img {
-	width: 15%;
-	height: 15%;
+.aboutme {
+	width: 35%;
+	height: 35%;
 	margin: 1em;
 }
 
