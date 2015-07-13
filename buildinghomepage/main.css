@@ -86,7 +86,7 @@ h1 {
 
 .aboutme {
 	float: right;
-	width: 40%;
+	width: 50%;
 	display: inline-block;
 	overflow: auto;
 	clear: right;
@@ -101,7 +101,7 @@ h1 {
 .bulletpoint{
 	text-align: left;
 	float: left;
-	width: 40%;
+	width: 50%;
 	display: inline-block;
 	overflow: auto;
 	clear: left;
@@ -110,7 +110,7 @@ h1 {
 #mission {
 	text-align: left;
 	float: left;
-	width: 40%;
+	width: 50%;
 	display: inline-block;
 	overflow: auto;
 	clear: left;
