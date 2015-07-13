@@ -125,12 +125,23 @@ h1 {
 #c1, #c2, #c3 {
 	float: left;
 	width: 33%;
-	height: 33%;
+	line-height: 0;
 	padding: 1em;
-	display: inline-block;
+	display: block;
 	position: relative;
 	overflow: auto;
 	clear: left;
+	-webkit-column-count: 5;
+  -webkit-column-gap:   0px;
+  -moz-column-count:    5;
+  -moz-column-gap:      0px;
+  column-count:         5;
+  column-gap:           0px;  
+}
+
+#works img {
+	width: 100% !important;
+	height: auto !important;
 }
 
 .clearfix:before,
