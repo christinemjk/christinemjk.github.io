@@ -72,15 +72,18 @@ h1 {
 	margin-top: 3em;
 }
 
+#sloganspace {
+	background-color: black;
+}
 #slogan{
 	font-style: italic;
 	font-size: 3em;
 	font-weight: bold;
 	font-family: 'Open Sans Condensed', sans-serif;
 	text-align: center;
-	background-color: black;
 	color: white;
 }
+
 #bulletpoint{
 	text-align: left;
 }
