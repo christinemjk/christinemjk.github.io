@@ -93,8 +93,8 @@ h1 {
 }
 
 .aboutme img{
-	width: 45%;
-	height: 45%;
+	width: 55%;
+	height: 55%;
 	margin: 1em;
 }
 
@@ -106,7 +106,7 @@ h1 {
 	overflow: auto;
 	clear: left;
 	margin: .2em;
-	padding-left: 2em;
+	padding-left: 5em;
 }
 
 #mission {
