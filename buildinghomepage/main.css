@@ -98,17 +98,6 @@ h1 {
 	margin: 1em;
 }
 
-.bulletpoint{
-	text-align: left;
-	float: left;
-	width: 50%;
-	display: inline-block;
-	overflow: auto;
-	clear: left;
-	padding-left: 5em;
-	margin-top: .8em;
-}
-
 #mission {
 	text-align: left;
 	float: left;
@@ -119,6 +108,18 @@ h1 {
 	clear: left;
 	font-size: 1.2em;
 	font-weight: bold;
+	padding-top: 1em;
+}
+
+.bulletpoint{
+	text-align: left;
+	float: left;
+	width: 50%;
+	display: inline-block;
+	overflow: auto;
+	clear: left;
+	padding-left: 5em;
+	margin-top: .8em;
 }
 
 .clearfix:before,
