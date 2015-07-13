@@ -156,6 +156,7 @@ h1 {
 
 footer {
 	display: inline-block;
+	clear: both;
 }
 
 }
