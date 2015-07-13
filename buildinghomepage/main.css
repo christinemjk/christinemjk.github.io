@@ -124,6 +124,7 @@ h1 {
 
 #works img {
 	display: inline-block;
+	background-size: fixed;
 }
 
 
