@@ -13,11 +13,7 @@ body {
 nav {
 	height: 2em;
 	width:100%;
-	font-weight: bold;
-	list-style-type:none;
 	text-align: center;
-	text-decoration: none;
-	color: #000000;
 }
 
 nav ul {
@@ -30,16 +26,12 @@ nav ul {
 nav li {
 	float: left;
 	display: inline;
-	text-decoration: none;
-	color: #000000;
 }
 
 nav a {
     display: inline-block;
     width: 100px;
     text-align: center;
-    text-decoration: none;
-	list-style: none;
     line-height: 2em;
     text-shadow: 1px 1px 0px #283744;
 }
