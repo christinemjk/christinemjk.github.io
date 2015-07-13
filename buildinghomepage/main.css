@@ -14,6 +14,7 @@ nav {
 	width:100%;
 	text-align: center;
 	text-transform: lowercase;
+	font-size: 2em;
 }
 
 a:link{
@@ -35,10 +36,10 @@ nav li {
 
 nav a {
     display: inline-block;
-    width: 100px;
+    width: 500px;
+	margin: 1em;
     text-align: center;
     line-height: 2em;
-    text-shadow: 1px 1px 0px #283744;
 }
 
 nav a:hover, nav a:active {
