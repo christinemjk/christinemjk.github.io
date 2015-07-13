@@ -106,6 +106,7 @@ h1 {
 	overflow: auto;
 	clear: left;
 	padding-left: 5em;
+	margin: .1em;
 }
 
 #mission {
