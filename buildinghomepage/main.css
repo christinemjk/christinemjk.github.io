@@ -149,6 +149,9 @@ h2 {
 	padding: 1em;
 }
 
+h3 {
+	text-align: center;
+}
 
 .clearfix:before,
 .clearfix:after { 
