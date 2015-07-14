@@ -145,6 +145,10 @@ h1 {
 	height: 20%;
 }
 
+h2 {
+	padding: 1em;
+}
+
 
 .clearfix:before,
 .clearfix:after { 
