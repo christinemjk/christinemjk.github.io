@@ -228,8 +228,16 @@ footer {
 	}
 
 	nav a {
-		display: inline-block;
+		display: inline;
 	}
+
+	nav a:hover, nav a:active {
+    	color: #999999;
+	}
+
+	nav a#pull {
+    	display: none;
+	}  
 
 	h1 {
 		font-size: 3em;
