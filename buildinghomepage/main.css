@@ -219,8 +219,8 @@ footer {
 @media only screen and (min-device-width : 320px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) { 
 	#splash {
 		background-image: url("images/albertdock.jpg");
-		height: 20%;
-		width: 100%;
+		height: 10%;
+		width: 10%;
 		background-position: center top;
 	}
 
