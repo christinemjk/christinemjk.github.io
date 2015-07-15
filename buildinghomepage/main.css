@@ -232,11 +232,11 @@ footer {
 	}  
 
 	h1 {
-		font-size: 3em;
+		font-size: 1em;
 		color: #000000;
 		text-decoration: none;
 		list-style: none;
-		padding-top: 3em;
+		padding-top: 1em;
 	}
 
 	nav li {
@@ -257,6 +257,6 @@ footer {
 	
 	.bulletpoint {
 		font-size: 1em;
-		padding-left: 2em;
+		padding-left: 1em;
 	}
 }
