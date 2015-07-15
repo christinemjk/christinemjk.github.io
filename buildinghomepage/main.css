@@ -216,10 +216,12 @@ footer {
 }
 
 }
-@media only screen and (min-device-width : 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) { 
+@media only screen and (min-device-width : 320px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) { 
 	#splash {
 		background-image: url("images/albertdock.jpg");
 		height: 100%;
+		background-position: center top;
+		height: 150px;
 	}
 
 
@@ -263,6 +265,6 @@ footer {
 	
 	.bulletpoint {
 		font-size: 1em;
-		padding-left: 1em;
+		padding-left: 2em;
 	}
 }
