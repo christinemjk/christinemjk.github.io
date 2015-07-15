@@ -224,7 +224,11 @@ footer {
 	}
 
 	nav li {
-		float: none;
+		float: right;
+	}
+
+	nav a {
+		display: inline;
 	}
 
 	h1 {
