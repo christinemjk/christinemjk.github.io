@@ -222,6 +222,7 @@ footer {
 		height: 10%;
 		width: 10%;
 		background-position: center top;
+		display: none;
 	}
 
 
