@@ -160,6 +160,11 @@ h3 {
 	padding: 1em;
 }
 
+#testimonials {
+	background-color: black;
+	color: white;
+}
+
 #testimonials p{
 	font-style: italic;
 }
