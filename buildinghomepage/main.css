@@ -223,10 +223,6 @@ footer {
 		text-decoration: none;
 	}
 
-	nav a {
-		display: inline;
-	}
-
 	nav a:hover, nav a:active {
     	color: #999999;
 	}
