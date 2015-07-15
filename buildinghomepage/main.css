@@ -184,7 +184,9 @@ h3 {
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
 	#splash {
 		background-image: url("images/albertdock.jpg");
-		height: 100%;
+		height: 100vh;
+		width: 100%;
+
 	}
 
 	nav {
@@ -219,6 +221,8 @@ footer {
 @media only screen and (min-device-width : 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) { 
 	#splash {
 		background: url("images/albertdock.jpg");
+		width: 100%;
+		height: 100vh;
 	}
 
 	nav {
