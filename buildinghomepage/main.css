@@ -204,7 +204,7 @@ h3 {
 
 	h1 {
 		font-size:3.5em;
-		padding-top: 2em;
+		margin-top: 3em;
 	}
 
 	#slogan {
@@ -242,7 +242,7 @@ footer {
 		color: #000000;
 		text-decoration: none;
 		list-style: none;
-		margin-top: 5em;
+		margin-top: 3em;
 	}
 
 	nav li {
