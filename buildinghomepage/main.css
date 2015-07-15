@@ -217,6 +217,16 @@ footer {
 		background: url("images/albertdock.jpg");
 	}
 
+	nav {
+		font-size: 1em;
+		color: black;
+		text-decoration: none;
+	}
+
+	nav li {
+		float: none;
+	}
+
 	h1 {
 		font-size: 3em;
 		color: #000000;
