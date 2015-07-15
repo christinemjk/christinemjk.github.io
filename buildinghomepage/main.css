@@ -223,10 +223,6 @@ footer {
 		text-decoration: none;
 	}
 
-	nav li {
-		float: right;
-	}
-
 	nav a {
 		display: inline;
 	}
