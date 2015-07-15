@@ -221,8 +221,10 @@ footer {
 		background-image: url("images/albertdock.jpg");
 		height: 10%;
 		width: 10%;
-		background-position: center top;
-		display: none;
+		background-position: center center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment:fixed;
 	}
 
 
