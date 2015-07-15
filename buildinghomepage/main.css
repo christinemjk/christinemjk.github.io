@@ -160,6 +160,10 @@ h3 {
 	padding: 1em;
 }
 
+#testimonials p{
+	font-style: italic;
+}
+
 .clearfix:before,
 .clearfix:after { 
 	content: "."; 
