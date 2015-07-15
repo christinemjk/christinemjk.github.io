@@ -69,7 +69,7 @@ h1 {
 	text-align: center;
 	font-size: 30em;
 	font-family: 'Playfair Display', serif;
-	margin-top: 2.85em;
+	padding-top: 2.9em;
 }
 
 #sloganspace {
@@ -237,7 +237,7 @@ footer {
 		color: #000000;
 		text-decoration: none;
 		list-style: none;
-		padding-top: 3em;
+		padding-top: 3.5em;
 	}
 
 	nav li {
