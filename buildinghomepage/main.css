@@ -220,7 +220,7 @@ footer {
 	#splash {
 		background-image: url("images/albertdock.jpg");
 		height: 10%;
-		width: 10%;
+		width: 100%;
 		background-position: center center;
 		background-size: cover;
 		background-repeat: no-repeat;
