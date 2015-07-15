@@ -228,7 +228,7 @@ footer {
 	}
 
 	nav a {
-		display: inline;
+		display: inline-block;
 	}
 
 	h1 {
