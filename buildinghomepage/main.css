@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(http://fonts.googleapis.com/css?family=Oranienbaum);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic);
 * { margin:0;padding:0;box-sizing:border-box; }
 
@@ -68,7 +69,7 @@ section#splash {
 h1 {
 	text-align: center;
 	font-size: 3em;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Oranienbaum', serif;
 	margin-top: 2.5em;
 	color: white;
 }
